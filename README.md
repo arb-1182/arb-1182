@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arb-1182
+- 👋 Hi, I’m Atikur Rahman Bappy
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python coding
 - 💞️ I’m looking to collaborate on comparative coding zone
